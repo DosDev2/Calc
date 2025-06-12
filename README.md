@@ -1,12 +1,13 @@
 # Calc
 
-Una calculadora básica e interactiva hecha en Bash!
+Realice operaciones aritméticas básicas desde el terminal en Linux.
 
 ![Image](./screenshots/screenshot01.png)
 
 ![Image](./screenshots/screenshot02.png)
 
 ## Instalación
+
 Use [git](https://git-scm.com/) para clonar el repositorio de manera local.
 
 ```bash
@@ -16,13 +17,13 @@ git clone https://github.com/DosDev2/Calc.git
 Acceda a la carpeta y otorgue permisos de ejecución al archivo.
 
 ```bash
-chmod +x calc.sh
+chmod +x Calc.sh
 ```
 
 ## Uso
 
 ```bash
-./calc.sh
+./Calc.sh
 ```
 
 ## Contribuyendo
